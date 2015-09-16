@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說灌洗佛形像經
+#+DATE: 2015-08-30 20:17:46.547249
+#+PROPERTY: JUAN 0
