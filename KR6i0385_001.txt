@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:46.767324
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:25
 #+TITLE: 佛說灌洗佛形像經
 #+PROPERTY: CBETA_ID T16n0695
 #+PROPERTY: ID KR6i0385
